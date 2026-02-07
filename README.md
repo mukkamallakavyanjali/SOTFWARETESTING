@@ -2,9 +2,9 @@ TEST AUTOMATION USING SELENIUM
 CODTECH Internship - Task-1
 "Company":CODTECH IT SOLUTIONS
 
-"Intern Name":Madaraboyina Hema Latha
+"Intern Name":Mukkamalla Venkata Kavyanjali
 
-"Intern ID":CTIS2560
+"Intern ID":CTISAN32
 
 "Domain":Software Testing
 
